@@ -1,11 +1,11 @@
 {
   "general": {
     "name": "Travis Burandt",
-    "github": "trabur",
+    "github": "subvind",
     "email": "travis.burandt@gmail.com",
     "phone": "(281) 798-0497",
     "website": "istrav.com/resume",
-    "resume": "http://2022-now.istrav.com/travis-burandt-resume.pdf",
+    "resume": "http://2016-now.istrav.com/travis-burandt-resume.pdf",
     "stars": [
       "JavaScript",
       "TypeScript",
@@ -33,25 +33,14 @@
     {
       "name": "Technical",
       "keywords": [
-        "AngularJS",
+        "Svelte",
         "Gulp",
-        "Grunt",
-        "Lodash",
         "Sass",
-        "Twitter Bootstrap",
-        "jQuery",
-        "Sails",
+        "materializecss",
+        "NestJS",
         "Express",
-        "Koa",
-        "ActionHero",
-        "Sencha Touch",
-        "Ember",
-        "Meteor",
-        "Cross Browser",
-        "SEO",
-        "Yii",
-        "Microsoft",
-        "TFS"
+        "Google Analytics",
+        "SEO"
       ]
     },
     {
@@ -59,9 +48,8 @@
       "keywords": [
         "Local Storage",
         "PostgreSQL",
-        "MySQL / MariaDB",
-        "Redis",
-        "CQRS"
+        "RabbitMQ",
+        "Redis"
       ]
     }
   ],
