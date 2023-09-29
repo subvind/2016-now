@@ -7,9 +7,9 @@
     "website": "istrav.com/resume",
     "resume": "http://2016-now.istrav.com/travis-burandt-resume.pdf",
     "stars": [
-      "erpnomy",
-      "desknomy",
-      "tubenomy"
+      "erpnomy.com",
+      "desknomy.com",
+      "tubenomy.com"
     ]
   },
   "skills": [
@@ -61,7 +61,7 @@
   ],
   "experience": [
     {
-      "title": "Enterprise Resource Planning (ERP)",
+      "title": "µSaaS Modules",
       "description": "subvind",
       "startDate": "Jul. 2023",
       "endDate": "current",
@@ -70,6 +70,9 @@
         "https://subvind.com"
       ],
       "keywords": [
+        "erpnomy.com",
+        "desknomy.com",
+        "tubenomy.com"
       ]
     },
     {
