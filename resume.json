@@ -7,9 +7,9 @@
     "website": "istrav.com/resume",
     "resume": "http://2016-now.istrav.com/travis-burandt-resume.pdf",
     "stars": [
-      "erpnomy.com",
-      "desknomy.com",
-      "tubenomy.com"
+      "isTrav",
+      "subvind",
+      "underwind.solutions"
     ]
   },
   "skills": [
@@ -27,7 +27,8 @@
       "name": "Familiar Languages",
       "keywords": [
         "Rust",
-        "Deno"
+        "Deno",
+        "ERP"
       ]
     },
     {
@@ -61,31 +62,56 @@
   ],
   "experience": [
     {
+      "title": "Software Agency",
+      "description": "underwind.solutions",
+      "startDate": "Oct. 2023",
+      "endDate": "current",
+      "highlights": [
+        "wip",
+        "https://underwind.solutions"
+      ],
+      "keywords": [
+        "underwind.solutions"
+      ]
+    },
+    {
       "title": "µSaaS Modules",
       "description": "subvind",
       "startDate": "Jul. 2023",
       "endDate": "current",
       "highlights": [
-        "wip",
+        "nomy.HOME: ",
+        "nomy.ERP: is a system that optomizes the flow of information, materials, and cash in an organization.",
+        "nomy.TUBE: is a system that optomizes the flow of videos, playlists, and subscriptions in an organization.",
+        "nomy.DESK: is a system that optomizes the flow of plans, tasks, and clients in an organization.",
         "https://subvind.com"
       ],
       "keywords": [
-        "erpnomy.com",
-        "desknomy.com",
-        "tubenomy.com"
+        "subvind"
+      ]
+    },
+    {
+      "title": "App Community",
+      "description": "isTrav",
+      "startDate": "Mar. 2020",
+      "endDate": "current",
+      "highlights": [
+        "wip",
+        "https://istrav.com"
+      ],
+      "keywords": [
+        "istrav"
       ]
     },
     {
       "title": "Innovation Management System (IMS)",
-      "description": "isTrav",
+      "description": "null",
       "startDate": "Jan. 2016",
       "endDate": "Jul. 2023",
       "highlights": [
         "Advanced idea tracking and management system. Goal set out to be a better WHMCS built for deploying websites and applications for ideas. A website that allows user's to create websites using no code.",
         "As a full stack developer I was able to get the application running in a SaaS enviornment, setup member authentication, programmed business logic, and coded many forms, lists, and master-detail pages.",
-        "Project failed because of lack of marketing, mental health reasons, and then finally lack of overall interest; MVP was not reached mostly because my focus shifted to working on a new programming language and ERP.",
-        "Note: sense then things have been gutted and repurposed into a client area for subvind members because I like the domain name.",
-        "https://istrav.com"
+        "Project failed because of lack of marketing, mental health reasons, and then finally lack of overall interest; MVP was not reached mostly because my focus shifted to working on a new programming language and ERP."
       ],
       "keywords": [
       ]
