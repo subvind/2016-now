@@ -4,12 +4,14 @@
     "github": "subvind",
     "email": "travis.burandt@gmail.com",
     "phone": "(281) 798-0497",
-    "website": "istrav.com/resume",
+    "website": "burandt.istrav.com/resume",
     "resume": "http://2016-now.istrav.com/travis-burandt-resume.pdf",
     "stars": [
-      "isTrav",
-      "subvind",
-      "underwind.solutions"
+      "HTMX",
+      "EJS",
+      "NestJS",
+      "TypeORM",
+      "Tauri"
     ]
   },
   "skills": [
@@ -34,6 +36,8 @@
     {
       "name": "Technical",
       "keywords": [
+        "HTMX",
+        "EJS",
         "Svelte",
         "Gulp",
         "Sass",
@@ -46,7 +50,8 @@
         "Three-tier Architecture",
         "Microservices Architecture",
         "TypeORM",
-        "firebase"
+        "firebase",
+        "Tauri"
       ]
     },
     {
@@ -56,7 +61,8 @@
         "PostgreSQL",
         "RabbitMQ",
         "Redis",
-        "S3"
+        "S3",
+        "influxdb"
       ]
     }
   ],
@@ -71,23 +77,26 @@
         "https://underwind.solutions"
       ],
       "keywords": [
-        "underwind.solutions"
+        "Svelte",
+        "influxdb",
+        "NestJS"
       ]
     },
     {
       "title": "µSaaS Modules",
-      "description": "subvind",
+      "description": "getnomy.com",
       "startDate": "Jul. 2023",
       "endDate": "current",
       "highlights": [
-        "nomy.HOME: is a system that optomizes the flow of content, activity, and members in an organization.",
-        "nomy.ERP: is a system that optomizes the flow of information, materials, and cash in an organization.",
-        "nomy.TUBE: is a system that optomizes the flow of videos, playlists, and subscriptions in an organization.",
-        "nomy.DESK: is a system that optomizes the flow of plans, tasks, and clients in an organization.",
-        "https://subvind.com"
+        "nomy.HOME - Easily engage and empower your community. Load balance traffic by creating a splash page landing or homepage that is optimized for every user. No code needed.",
+        "nomy.ERP - Easily create and manage your e-commerce business. Accept orders, manage products and sell online using your very own storefront in minutes. No code needed.",
+        "nomy.TUBE - Easily promote and sell your goods and services. Notify subscribers, manage playlists, and showcase videos using your very own catalog in minutes. No code needed.",
+        "nomy.DESK - Easily create and manage your productized service. Accept monthly subscription plans, manage tasks and communicate using your very own client area in minutes. No code needed.",
+        "nomy.IMS - Easily host a peer 2 peer chat service. Instantly accept and receive personal messages over websockets and via notifications when offline. No code needed.",
+        "https://getnomy.com"
       ],
       "keywords": [
-        "subvind", "ERP"
+        "NestJS", "Svelte", "ERP", "EJS", "HTMX"
       ]
     },
     {
@@ -100,7 +109,7 @@
         "https://istrav.com"
       ],
       "keywords": [
-        "isTrav"
+        "Svelte", "NestJS"
       ]
     },
     {
@@ -114,6 +123,7 @@
         "Project failed because of lack of marketing, mental health reasons, and then finally lack of overall interest; MVP was not reached mostly because my focus shifted to working on a new programming language and ERP."
       ],
       "keywords": [
+        "Svelte", "NestJS"
       ]
     }
   ],
